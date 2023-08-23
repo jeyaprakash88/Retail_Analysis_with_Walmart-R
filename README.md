@@ -33,5 +33,6 @@ The main analysis is performed using the R script `Walmart_Store_sales.R`.
 4. Execute the script to reproduce the analysis.
 
 ## License
+This project is licensed under the [MIT License](LICENSE), offering you the freedom to adapt and modify it to suit your unique needs. [Click here](LICENSE) to view the full license.
 
-[License details or reference to a LICENSE file]
+Explore, adapt, and utilize this project as a launchpad for crafting your own interactive Streamlit dashboards. Here's to illuminating data exploration!
